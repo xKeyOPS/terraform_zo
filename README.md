@@ -1,4 +1,4 @@
-Simple terraform zero-downtime deployement (Blue/Green deployement)
+Simple AWS zero-downtime deployment (Blue/Green deployment) with Terraform
 
 Usage:
  - terraform init
